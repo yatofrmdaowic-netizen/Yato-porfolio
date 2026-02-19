@@ -13,14 +13,14 @@ const skills = [
 ];
 
 const channels = [
-  { name: 'WhatsApp Channel', url: 'https://wa.me/1234567890' },
-  { name: 'Telegram Channel', url: 'https://t.me/yatoportfolio' }
+  { name: 'WhatsApp Channel', url: 'https://whatsapp.com/channel/0029VbCfvsc90x2thOgDQu3J' },
+  { name: 'Telegram Channel', url: 'https://t.me/+QXdIxOm8FjUxZGNl' }
 ];
 
 const socialMedia = [
-  { name: 'Telegram', label: '@yatoportfolio', url: 'https://t.me/yatoportfolio' },
-  { name: 'WhatsApp', label: '+1 234 567 890', url: 'https://wa.me/1234567890' },
-  { name: 'Instagram', label: '@yato.portfolio', url: 'https://instagram.com/yato.portfolio' }
+  { name: 'Telegram', label: '@Neverbrok3agains', url: 'https://t.me/Neverbrok3agains' },
+  { name: 'WhatsApp', label: '+916009516487', url: 'https://wa.me/916009516487' },
+  { name: 'Instagram', label: '@_never_.broke_again._', url: 'https://www.instagram.com/_never_.broke_again._?igsh=MjI5YWFxM2p4anFj' }
 ];
 
 const serviceList = document.getElementById('service-list');
